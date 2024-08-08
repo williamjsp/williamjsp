@@ -1,5 +1,23 @@
-## *Olá, me chamo William Johnson*
-### tenho 18 anos, estou na faculdade de Sistema de Informação no Cesmac cursando o 2º período, quero entrar e me aventurar nesse mundo de programação, estou atualmente priorizando e me aprofundando em Java.
-![Sou um gamer apaixonado por jogos e tecnologia Em busca de aprender mais de programação](https://github.com/williamjsp/williamjsp/assets/159174737/1bd3ac5f-0567-4f63-8fa5-a94f40f7cbf0)
-## *hobbies*
-### gosto de jogar videogame, principalmente jogos de FPS, jogo bastante valorant. Gosto muito de jogar futebol e praticar esportes
+## Bem-vindo(a) ao perfil do Williamjsp 😁
+
+ <div>
+   <a href="https://github.com/williamjsp">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamjsp&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjsp&layout=compact&langs_count=6&theme=holi"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação e marketing me segue nas redes abaixo!
+ 
+<div>
+  <a href="https://instagram.com/williamjohnsonsz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "williamjohnsonprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/william-johnson-2b6389288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
