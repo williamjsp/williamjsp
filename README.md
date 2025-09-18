@@ -38,9 +38,9 @@ Meu objetivo atual é conquistar uma posição como **Estagiário/Trainee/Dev J�
 
 ### 🚀 Projetos Âncora  
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=dark)](https://github.com/williamjsp/dslist)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=Gotham)](https://github.com/williamjsp/dslist)
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=williamjsp&repo=first-spring-app&theme=dark)](https://github.com/williamjsp/first-spring-app)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=williamjsp&repo=first-spring-app&theme=Gotham)](https://github.com/williamjsp/first-spring-app)
 
 ---
 
@@ -54,12 +54,12 @@ Meu objetivo atual é conquistar uma posição como **Estagiário/Trainee/Dev J�
 ---
 
 ## 📊 GitHub Stats
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamjsp&show_icons=true&theme=dark)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamjsp&show_icons=true&theme=Gotham)
 
 ---
 
 ## 🧠 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjsp&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjsp&layout=compact&theme=Gotham)
 ---
 
 🔗 Conecte-se comigo:  
