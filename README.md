@@ -38,9 +38,8 @@ Meu objetivo atual é conquistar uma posição como **Estagiário/Trainee/Dev J�
 
 ### 🚀 Projetos Âncora  
 
-[![DSList](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=gotham&show_icons=true&hide_border=false&count_private=true)](https://github.com/williamjsp/dslist)
+[![DSList](https://github-readme-stats.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=gotham&show_icons=true&hide_border=false&count_private=true)](https://github.com/williamjsp/dslist)
 
-[![First Spring App](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=williamjsp&repo=first-spring-app&theme=gotham&show_icons=true&hide_border=false&count_private=true)](https://github.com/williamjsp/first-spring-app)
 
 ---
 
