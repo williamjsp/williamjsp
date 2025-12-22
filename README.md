@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/williamjsp/williamjsp/blob/main/V%C3%ADdeo%20ReadMe%20Github.mp4" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/williamjsp/williamjsp/blob/main/V%C3%ADdeo-ReadMe-Github.gif" width="400px" alt="commit gif looping" />
 </p>
 
 
