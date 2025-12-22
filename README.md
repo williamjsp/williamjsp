@@ -1,4 +1,9 @@
 # Olá! Eu sou William Johnson 👋  
+
+<video src="Vídeo ReadMe Github.mp4"></video>
+
+---
+
 Estudante de **Sistemas de Informação (CESMAC)** e **Embaixador DIO (DIO Campus Expert #13)**, focado em desenvolvimento **Back-end com Java e Spring Boot**.  
 
 Atualmente, atuo como **Estagiário em Tecnologia Educacional no Colégio Contato**, onde organizo dados acadêmicos, crio relatórios/dashboards e apoio professores e alunos no uso de plataformas digitais. Paralelamente, estou direcionando minha carreira para o desenvolvimento de APIs, automações e integrações.  
