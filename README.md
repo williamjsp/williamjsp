@@ -1,11 +1,11 @@
 # Olá! Eu sou William Johnson 👋  
 
 <p align="center">
-  <em>Backend Developer • DIO ambassador • GDG ARAPIRADA ambassador</em>
+  <em>Backend Developer • DIO Ambassador • GDG ARAPIRACA Ambassador</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/williamjsp/williamjsp/blob/main/V%C3%ADdeo-ReadMe-Github.gif" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/williamjsp/williamjsp/blob/main/V%C3%ADdeo-ReadMe-Github.gif" width="500px" alt="commit gif looping" />
 </p>
 
 
