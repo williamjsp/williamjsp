@@ -1,6 +1,13 @@
 # Olá! Eu sou William Johnson 👋  
 
-<video src="Vídeo ReadMe Github.mp4"></video>
+<p align="center">
+  <em>Backend Developer • DIO ambassador • GDG ARAPIRADA ambassador</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/williamjsp/williamjsp/blob/main/V%C3%ADdeo%20ReadMe%20Github.mp4" width="400px" alt="commit gif looping" />
+</p>
+
 
 ---
 
