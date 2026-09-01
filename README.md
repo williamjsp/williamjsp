@@ -51,7 +51,7 @@ Meu objetivo atual é conquistar uma posição como **Estagiário/Trainee/Dev J�
 ### 🚀 Projetos Âncora  
 
 [![DSList](https://github-readme-stats.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=gotham&show_icons=true&hide_border=false&count_private=true)](https://github.com/williamjsp/dslist)
-[![DSList](https://github-readme-stats.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=gotham&show_icons=true&hide_border=false&count_private=true)](https://github.com/williamjsp/valorant-match-analyzer)
+[![Valorant Match Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=williamjsp&repo=dslist&theme=gotham&show_icons=true&hide_border=false&count_private=true)](https://github.com/williamjsp/valorant-match-analyzer)
 
 
 ---
